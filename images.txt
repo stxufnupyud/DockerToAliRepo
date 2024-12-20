@@ -9,6 +9,7 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
---platform=linux/arm64/v8 tomcat:9.0-jdk8
+#--platform=linux/arm64/v8 tomcat:9.0-jdk8
+portainer/portainer-ce:latest
 
 
