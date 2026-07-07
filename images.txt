@@ -11,6 +11,7 @@
 #kubesphere/ks-installer:v3.4.1
 #--platform=linux/arm64/v8 tomcat:9.0-jdk8
 #portainer/portainer-ce:latest
-hashicorp/consul:latest
+#hashicorp/consul:latest
+python:3.11-slim
 
 
