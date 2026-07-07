@@ -12,6 +12,7 @@
 #--platform=linux/arm64/v8 tomcat:9.0-jdk8
 #portainer/portainer-ce:latest
 #hashicorp/consul:latest
-python:3.11-slim
+#python:3.11-slim
+moby/buildkit:buildx-stable-1
 
 
