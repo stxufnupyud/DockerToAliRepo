@@ -16,6 +16,7 @@
 #moby/buildkit:buildx-stable-1
 #python:3.13-slim
 #arm64v8/openjdk:17-jdk-alpine
-consul:1.14.1
+#consul:1.14.1
+elasticsearch:7.17.5
 
 
